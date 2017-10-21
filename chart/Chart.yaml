@@ -1,0 +1,4 @@
+apiVersion: v1
+description: puppeteer pdf render service
+name: puppeteer
+version: 0.1.0
